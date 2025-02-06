@@ -5,7 +5,7 @@ input_sizes = [10, 20, 30, 40]
 linear_best = [1, 1, 1, 1]
 linear_avg = [2, 8, 5, 21]
 linear_worst = [10, 20, 30, 40]
-binary_best = [3, 4, 5, 5]
+binary_best = [1, 1, 1, 1]
 binary_avg = [2, 4, 4, 5]
 binary_worst = [4, 5, 5, 6]
     
